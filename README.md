@@ -51,10 +51,10 @@ Interactivity is at the heart of the gameplay. Players interact by:
 - **Scoring/Progress:** Track your journey and achievements throughout the game.
 
 ## HARDWARE AND INFRASTRUCTURE
-➢ Game Design/Planning: StarUML
-➢ Game Mechanisms: Unity
-➢ Graphics: ibis Paint, Luna Pic, IMAGE ONLINE.CO
-➢ Target Android Version: Android 14 (API Lvl. 34) “Upside Down Cake”
+- Game Design/Planning: StarUML
+- Game Mechanisms: Unity
+- Graphics: ibis Paint, Luna Pic, IMAGE ONLINE.CO
+- Target Android Version: Android 14 (API Lvl. 34) “Upside Down Cake”
 
 Join us on a mystical journey where each riddle is a step closer to the ultimate revelation. Are you ready to unravel the "Mystic Riddlescape"?
 
