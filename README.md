@@ -1,10 +1,9 @@
-![mainMenu](https://github.com/abhisekjha/Mystic_RiddleScape/assets/58218626/a7d7b539-fcbe-414a-b505-dd5ef415f663)
 # Mystic Riddlescape
 
 ## Introduction
 
 Welcome to "Mystic Riddlescape," a captivating 2D RPG single-player adventure, intricately designed for mobile platforms. Dive into a world of enigma where each puzzle brings you closer to unraveling your character's story and the overarching mysteries of the game.
-
+![mainMenu](https://github.com/abhisekjha/Mystic_RiddleScape/assets/58218626/a7d7b539-fcbe-414a-b505-dd5ef415f663)
 ## Game Concept
 
 In "Mystic Riddlescape," players will navigate through a rich narrative, solving a series of interactive puzzles that are key to traversing three distinct environments. The ultimate goal is to complete a quest that is both personal and profound.
@@ -72,6 +71,19 @@ Join us on a mystical journey where each riddle is a step closer to the ultimate
 ![BL](https://github.com/abhisekjha/Mystic_RiddleScape/assets/58218626/4bdaa89d-d3bf-4c3e-befd-24f935d5f692)
 ![BC](https://github.com/abhisekjha/Mystic_RiddleScape/assets/58218626/d2a2980e-adc4-4704-857b-06fa55490281)
 ![mainMenu](https://github.com/abhisekjha/Mystic_RiddleScape/assets/58218626/1496fe05-9071-456e-aff8-89c03c04dc4f)
+
+## Team Members
+
+"Mystic Riddlescape" is brought to life by a dedicated team of creators and developers:
+
+- Carl Nguyen
+- Abhisek Kumar Jha
+- Darshan Bastola
+- Insaf Mohamed Umar
+
+
+Their diverse skills and unwavering commitment have shaped the mystical world of "Mystic Riddlescape".
+
 
 
 
