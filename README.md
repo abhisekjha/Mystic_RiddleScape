@@ -50,3 +50,9 @@ Interactivity is at the heart of the gameplay. Players interact by:
 - **Scoring/Progress:** Track your journey and achievements throughout the game.
 
 Join us on a mystical journey where each riddle is a step closer to the ultimate revelation. Are you ready to unravel the "Mystic Riddlescape"?
+
+## Context Diagram
+<img width="450" alt="image" src="https://github.com/abhisekjha/Mystic_RiddleScape/assets/58218626/abd4eaa5-46ec-46fe-822b-d83fe7f52883">
+
+## UML Class System
+<img width="450" alt="image" src="https://github.com/abhisekjha/Mystic_RiddleScape/assets/58218626/545fc264-e62a-483e-bef1-2ab15893e639">
