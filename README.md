@@ -4,7 +4,6 @@
 ## Introduction
 
 Welcome to "Mystic Riddlescape," a captivating 2D RPG single-player adventure, intricately designed for mobile platforms. Dive into a world of enigma where each puzzle brings you closer to unraveling your character's story and the overarching mysteries of the game.
-![mainMenu](https://github.com/abhisekjha/Mystic_RiddleScape/assets/58218626/1496fe05-9071-456e-aff8-89c03c04dc4f)
 
 ## Game Concept
 
@@ -66,6 +65,8 @@ Join us on a mystical journey where each riddle is a step closer to the ultimate
 ![BR](https://github.com/abhisekjha/Mystic_RiddleScape/assets/58218626/7c14e2a8-a6ee-47a9-b884-4241e3cd371a)
 ![BL](https://github.com/abhisekjha/Mystic_RiddleScape/assets/58218626/4bdaa89d-d3bf-4c3e-befd-24f935d5f692)
 ![BC](https://github.com/abhisekjha/Mystic_RiddleScape/assets/58218626/d2a2980e-adc4-4704-857b-06fa55490281)
+![mainMenu](https://github.com/abhisekjha/Mystic_RiddleScape/assets/58218626/1496fe05-9071-456e-aff8-89c03c04dc4f)
+
 
 
 
