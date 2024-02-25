@@ -81,7 +81,6 @@ Join us on a mystical journey where each riddle is a step closer to the ultimate
 - Darshan Bastola
 - Insaf Mohamed Umar
 
-
 Their diverse skills and unwavering commitment have shaped the mystical world of "Mystic Riddlescape".
 
 
