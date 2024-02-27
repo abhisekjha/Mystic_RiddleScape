@@ -55,7 +55,7 @@ Interactivity is at the heart of the gameplay. Players interact by:
 - Graphics: ibis Paint, Luna Pic, IMAGE ONLINE.CO
 - Target Android Version: Android 14 (API Lvl. 34) “Upside Down Cake”
 
-Join us on a mystical journey where each riddle is a step closer to the ultimate revelation. Are you ready to unravel the "Mystic Riddlescape"?
+It is a mystical journey where each riddle is a step closer to the ultimate revelation. Are you ready to unravel the "Mystic Riddlescape"?
 
 ## Context Diagram
 <img width="450" alt="image" src="https://github.com/abhisekjha/Mystic_RiddleScape/assets/58218626/abd4eaa5-46ec-46fe-822b-d83fe7f52883">
