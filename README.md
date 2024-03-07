@@ -6,7 +6,7 @@ Welcome to "Mystic Riddlescape," a captivating 2D RPG single-player adventure, i
 ![mainMenu](https://github.com/abhisekjha/Mystic_RiddleScape/assets/58218626/a7d7b539-fcbe-414a-b505-dd5ef415f663)
 ## Game Concept
 
-In "Mystic Riddlescape," players would navigate through a rich narrative, solving a series of interactive puzzles that are key to traversing three distinct environments. The ultimate goal is to complete a quest that is both personal and profound.
+Here in "Mystic Riddlescape," players would navigate through a rich narrative, solving a series of interactive puzzles that are key to traversing three distinct environments. The ultimate goal is to complete a quest that is both personal and profound.
 
 ## Game Story
 
