@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to "Mystic Riddlescape," a captivating 2D RPG single-player adventure, intricately designed for mobile platforms. Dive into a world of enigma where each puzzle brings you closer to unraveling your character's story and the overarching mysteries of the game.
+"Mystic Riddlescape," a captivating 2D RPG single-player adventure, intricately designed for mobile platforms. Dive into a world of enigma where each puzzle brings you closer to unraveling your character's story and the overarching mysteries of the game.
 ![mainMenu](https://github.com/abhisekjha/Mystic_RiddleScape/assets/58218626/a7d7b539-fcbe-414a-b505-dd5ef415f663)
 ## Game Concept
 
