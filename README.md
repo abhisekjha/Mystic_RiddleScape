@@ -21,7 +21,7 @@ After awakening in an unfamiliar realm with no recollection of the past, the mai
 
 ## Game Structure
 
-Game progresses through increasingly challenging levels, each with its own thematic puzzles and unique locations. Complexity grows not just in the puzzles presented but also in the quantity, requiring players to engage deeply with the game mechanics.
+Game progresses through challenging levels, each with its own thematic puzzles and unique locations. Complexity grows not just in the puzzles presented but also in the quantity, requiring players to engage deeply with the game mechanics.
 
 ## Game Objective
 
