@@ -6,7 +6,7 @@
 ![mainMenu](https://github.com/abhisekjha/Mystic_RiddleScape/assets/58218626/a7d7b539-fcbe-414a-b505-dd5ef415f663)
 ## Game Concept
 
-Here in "Mystic Riddlescape," players would navigate through a rich narrative, solving a series of interactive puzzles that are key to traversing three distinct environments. The ultimate goal is to complete a quest that is both personal and profound.
+In "Mystic Riddlescape," players would navigate through a rich narrative, solving a series of interactive puzzles that are key to traversing three distinct environments. The ultimate goal is to complete a quest that is both personal and profound.
 
 ## Game Story
 
