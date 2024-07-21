@@ -1,6 +1,8 @@
 # Mystic Riddlescape
 unity based Game
 
+C++
+
 ## Introduction
 
 "Mystic Riddlescape," a captivating 2D RPG single-player adventure, intricately designed for mobile platforms. Dive into a world of enigma where each puzzle brings you closer to unraveling your character's story and the overarching mysteries of the game.
